@@ -1,7 +1,7 @@
 yml
 language: python
 python:
-    - "3.6"
+    - "3.8"
 before_install:
     - pip install pytest pytest-cov
     - pip install codecov
